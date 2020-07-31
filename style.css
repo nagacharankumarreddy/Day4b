@@ -1,0 +1,11 @@
+.btn1 {
+  margin: 1rem;
+  padding: 0.5rem;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 25rem;
+}
